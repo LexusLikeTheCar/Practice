@@ -1,5 +1,5 @@
-to see the website:
-run the website.html in a browser
+### to see the website:
+## run the website.html in a browser
 
 TODO:
 * add the js on all the pages
